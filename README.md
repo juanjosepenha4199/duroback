@@ -1,1 +1,2 @@
 # duroback
+Pagina de ropa de hombre y mujer, con una variedad de prendas y accesorios. La tienda ofrece una amplia gama de productos, desde camisas y pantalones hasta zapatos y bolsos. La tienda tiene una sección de ropa de verano y una de ropa de invierno, lo que permite a los clientes elegir la ropa adecuada para cada estación del año. La tienda también ofrece servicios de confección y reparación de ropa. La tienda   
